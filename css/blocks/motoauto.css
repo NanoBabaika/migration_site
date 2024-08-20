@@ -1,0 +1,36 @@
+
+
+.slider__block-moto {
+    margin-top: 31px;
+    margin-bottom: 44px;
+}
+
+.section__title--moto {
+    margin-right: 44px;
+}
+
+.slider__arrows-moto {
+    margin-left: 252px;
+}
+
+.slider__moto {
+    margin-bottom: 44px;
+}
+
+.slider__posters-item--moto {
+    width: 299px;
+    height: 290px;
+    border: 1px solid rgb(201, 201, 201);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.posters-item-title--moto {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding-left: 14px;
+}
+
+.item-bottom-tikets--moto {
+    margin-right: 85px;
+}

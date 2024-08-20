@@ -1,0 +1,38 @@
+.container__map {
+    display: flex;
+}
+
+.map__left-col {
+    width: 300px;
+    height: 269px;
+    border-radius: 10px;
+    background: rgb(247, 244, 240);
+    padding: 17px;
+    margin-right: 31px;
+}
+
+.left-col-adress {
+    margin-top: 19px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.adress__img {
+    margin-right: 19px;
+}
+
+.adress__text{
+    width: 65%;
+}
+
+.map__right-col {
+    width: 946px;
+    height: 269px;
+    border-radius: 10px;
+}
+
+.map {
+    height: 269px;
+    width: 946px;
+    border-radius: 10px;
+}

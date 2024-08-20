@@ -1,0 +1,68 @@
+.container__form {
+    margin-top: 44px;
+    display: flex;
+    margin-bottom: 44px;
+}
+
+.container__form--left-col {
+    padding: 22px 20px 22px 42px;
+    border-radius: 10px 0px 0px 10px;
+    background: rgb(255, 205, 29);
+    width: 40%;
+}
+
+.form__title {
+    color: rgb(32, 32, 32);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.form__subtitle {
+    color: rgb(32, 32, 32);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form__input {
+    width: 420px;
+    height: 36px;
+    margin-bottom: 12px;
+    border-radius: 9px;
+    background: rgb(255, 255, 255);
+    border: 1px solid transparent;
+}
+
+.form__btn-submit {
+    width: 173px;
+    height: 36px;
+    box-sizing: border-box;
+    border: 1px solid rgb(201, 201, 201);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    cursor: pointer;
+
+    color: rgb(32, 32, 32);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+}
+
+
+
+.form__btn-submit:hover {
+    color: #fff;
+    background: rgb(254, 133, 5);
+    transition: .3s;
+
+}

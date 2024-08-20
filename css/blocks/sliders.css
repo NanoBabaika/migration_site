@@ -1,0 +1,112 @@
+.container___posters {
+    display: flex;
+    flex-direction: column;
+    padding-left: 45px;
+}
+
+.head__slider-sec {
+    display: flex;
+    align-items: center;
+}
+
+.section__title--posters {
+    margin-right: 44px;
+}
+
+.show__all {
+    padding-top: 22px;
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    margin-right: 947px;
+}
+
+.slider__arrows {
+    display: flex;
+}
+
+.arrows{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 7px;
+    width: 53px;
+    height: 36px;
+    box-sizing: border-box;
+    border: 1px solid rgb(227, 226, 226);
+    border-radius: 9px;
+    box-shadow: 0px 0px 7.3px 0px rgba(0, 0, 0, 0.06);
+    background: rgb(255, 255, 255);     
+}
+
+.arrows:hover {
+    background: rgb(116, 115, 115);     
+}
+
+.arrow__img-right {
+    transform: rotate(180deg); 
+}
+
+
+
+.arrow__left:hover #arrow__img {
+    stroke: black;
+    fill: black;
+
+}
+ 
+ 
+.arrow__right:hover #arrow__img {
+    stroke: black;
+    fill: black;
+}
+
+
+.slider__card {
+    width: 1276px;
+    height: 230px;
+    background: url(../../img/clider__card__banner.png);
+    padding-left: 43px;
+}
+
+.slider__card-title {
+    margin-top: 32px;
+    color: rgb(255, 255, 255);
+    font-size: 86px;
+    font-weight: 600;
+    line-height: 104px;
+    text-align: left;
+}
+
+.slider__card-area {
+    margin-top: 29px;
+    color: rgb(32, 32, 32);
+    font-size: 24.18px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+}
+
+.slider__card-data {
+    margin-top: 7px;
+    color: rgb(32, 32, 32);
+    font-size: 24.18px;
+    font-weight: 400;
+    line-height: 29px;
+    text-align: left;
+}
+
+.slider__card2 {
+    background: url(../../img/clider__card__banner2.png);
+}
+
+.bx-wrapper {
+    box-shadow: none;
+}
+
+.slider__block-banner {
+    margin-top: 22px;
+}

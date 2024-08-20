@@ -1,0 +1,26 @@
+.section__preview {
+    background-image: url(../../img/banner__head.png);
+    background-position: center center;
+    background-size: cover;
+    height: 491px;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    color: #fff;
+
+}
+
+.preview__title {
+    padding-top: 374px;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 0px;
+    text-align: left;
+    margin-bottom: 30px;
+ }
+
+ .preview__subtitle {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 0px;
+    text-align: left;
+ }

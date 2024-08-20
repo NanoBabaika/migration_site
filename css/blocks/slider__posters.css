@@ -1,0 +1,104 @@
+.slider__posters {
+    display: flex;
+}
+.bx-wrapper {
+    min-width: 1300px;
+}
+
+
+.bx-viewport {
+    height: 445px;
+}
+
+.slider__posters-item {
+    display: flex;
+    flex-direction: column;
+    width: 236px;
+    height: 438px;
+    box-sizing: border-box;
+    border: 1px solid rgb(201, 201, 201);
+    border-radius: 10px;
+}
+
+.posters-item-img--age {
+    position: relative;
+    left: 80%;
+    top: -90%;
+}
+
+.posters-item-info {
+    padding-left: 14px;
+}
+
+.posters-item-title {
+    color: rgb(32, 32, 32);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+}
+
+.posters-item-locate {
+    margin-top: 13px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.item-locate-img {
+    margin-right: 10px;
+}
+
+.item-locate-name {
+    margin-top: 4px;
+    color: rgb(32, 32, 32);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    text-align: left;
+}
+
+.posters-item-date {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.posters-item-date--img {
+    margin-right: 6px;
+}
+
+.posters-item-date-text {
+    color: rgb(32, 32, 32);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+}
+
+.posters-item-bottom {
+    display: flex;
+    padding-right: 13px;
+    align-items: center;
+    padding-bottom: 7px;
+    border-top: 1px solid rgb(201, 201, 201);
+}
+
+.item-bottom-tikets {
+    padding-left: 14px;
+    display: flex;
+    align-items: center;
+    margin-right: 41px;
+}
+
+.bottom-tikets-text {
+    border-bottom: dashed;
+    color: rgb(254, 133, 5);
+
+}
+
+.bottom-tikets {
+    margin-right: 7px;
+}
+
+.item-bottom-watsapp-link {
+    margin-right: 24px;
+}

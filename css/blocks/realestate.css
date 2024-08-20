@@ -1,0 +1,98 @@
+.container__realestate {
+    display: flex;
+    flex-direction: column;
+    padding-right: 45px;
+}
+
+.section__title--realestate { 
+    min-width: 323px;
+    margin-right: 45px;
+}
+
+.show__all--realestate {
+    margin-right: 690px;
+}
+
+.block__info {
+    margin-top: 22px;
+    display: flex;
+    padding: 22px;
+    margin-bottom: 22px;
+}
+
+.block__info-left-col {
+    margin-right: 41px;
+}
+
+.block__info-title {
+    color: rgb(32, 32, 32);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    text-align: left;
+    margin-bottom: 23px;
+}
+
+.info__text-item {
+    margin-bottom: 12px;
+    color: rgb(32, 32, 32);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+}
+
+.info__text-item-link {
+    text-decoration: underline;
+}
+
+/* Стили для слайдера */
+
+.slider__posters-item--realestate {
+    width: 300px;
+    height: 430px;
+}
+
+.posters-item-img--realestate {
+  position: relative;
+  left: 70%;
+  top: -85%;
+}
+
+.item-locate-realestate {
+    color: rgb(32, 32, 32);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+}
+
+.item-locate-realestate {
+    color: rgb(32, 32, 32);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+}
+
+.realestate__desc {
+    color: rgb(128, 128, 128);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: -0.5%;
+    text-align: left;
+}
+
+.posters-item-bottom--realestare {
+    padding: 6px;
+}
+
+.bottom-tikets-text--realestate {
+    margin-right: 65px;
+}
+
+.slider__realestate {
+    margin-bottom: 44px;
+}
+
